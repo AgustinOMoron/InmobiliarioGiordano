@@ -1,0 +1,54 @@
+# Unity folders to ignore
+/[L|l]ibrary/
+/[T|t]emp/
+/[O|o]bj/
+/[B|b]uild/
+/[B|b]uilds/
+/[L|l]ogs/
+/[U|u]ser[S|s]ettings/
+/[M|m]emory[C|c]aptures/
+
+# PlasticSCM metadata
+.plastic/
+
+# Visual Studio / Rider / VS Code / Consulo
+.vs/
+.vscode/
+.idea/
+.gradle/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.private
+*.private.meta
+^*.private.[0-9]+$
+^*.private.[0-9]+.meta$
+
+# Built archives and packages
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: d7ab2e05ec7a7544cb3bd3ac78df7a4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4935916733497286531
+    second: agregar_inmueble_0
+  - first:
+      213: -7119954263084852826
+    second: agregar_inmueble_1
+  - first:
+      213: -4184623072611805643
+    second: agregar_inmueble_2
+  - first:
+      213: 1402241763165868443
+    second: agregar_inmueble_3
+  - first:
+      213: -9049231907471741814
+    second: agregar_inmueble_4
+  - first:
+      213: -6967952607321639180
+    second: agregar_inmueble_5
+  - first:
+      213: 2069662855301254692
+    second: agregar_inmueble_6
+  - first:
+      213: 8945607604955154380
+    second: agregar_inmueble_7
+  - first:
+      213: 2166549154574462716
+    second: agregar_inmueble_8
+  - first:
+      213: -4448117942504972780
+    second: agregar_inmueble_9
+  - first:
+      213: 5285774173971225229
+    second: agregar_inmueble_10
+  - first:
+      213: 5433198305713171219
+    second: agregar_inmueble_11
+  - first:
+      213: 2764571948256871499
+    second: agregar_inmueble_12
+  - first:
+      213: -6224146827374046902
+    second: agregar_inmueble_13
+  - first:
+      213: -5005920776224100027
+    second: agregar_inmueble_14
+  - first:
+      213: -4642911740530765108
+    second: agregar_inmueble_15
+  - first:
+      213: 5564206168904049789
+    second: agregar_inmueble_16
+  - first:
+      213: 4967892948285379640
+    second: agregar_inmueble_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: agregar_inmueble_0
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 1120
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f13051e16ef7440800000000000000
+      internalID: 4935916733497286531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_1
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1092
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a99cc32257d03d90800000000000000
+      internalID: -7119954263084852826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_2
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 1088
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536d11e8c7b3de5c0800000000000000
+      internalID: -4184623072611805643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_3
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 1092
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9118b64473c57310800000000000000
+      internalID: 1402241763165868443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1059
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c2409668baa6280800000000000000
+      internalID: -9049231907471741814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_5
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1059
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f636dc750cdc4f90800000000000000
+      internalID: -6967952607321639180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_6
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1035
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e4d0fb66be8bc10800000000000000
+      internalID: 2069662855301254692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_7
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1019
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7826988be252c70800000000000000
+      internalID: 8945607604955154380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 107
+        width: 3119
+        height: 903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe65da2af0211e10800000000000000
+      internalID: 2166549154574462716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_9
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 1007
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e13f56c4c1542c0800000000000000
+      internalID: -4448117942504972780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 790
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a1d722b97da5940800000000000000
+      internalID: 5285774173971225229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_11
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 662
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ba94e9219966b40800000000000000
+      internalID: 5433198305713171219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_12
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 601
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b444cd32a8bbd5620800000000000000
+      internalID: 2764571948256871499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 163
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41de7cff636f99a0800000000000000
+      internalID: -6224146827374046902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_14
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5413a679395678ab0800000000000000
+      internalID: -5005920776224100027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_15
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 87
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc25c260f50119fb0800000000000000
+      internalID: -4642911740530765108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_16
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74209ab708083d40800000000000000
+      internalID: 5564206168904049789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agregar_inmueble_17
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 35
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834d7b0c05081f440800000000000000
+      internalID: 4967892948285379640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      agregar_inmueble_0: 4935916733497286531
+      agregar_inmueble_1: -7119954263084852826
+      agregar_inmueble_10: 5285774173971225229
+      agregar_inmueble_11: 5433198305713171219
+      agregar_inmueble_12: 2764571948256871499
+      agregar_inmueble_13: -6224146827374046902
+      agregar_inmueble_14: -5005920776224100027
+      agregar_inmueble_15: -4642911740530765108
+      agregar_inmueble_16: 5564206168904049789
+      agregar_inmueble_17: 4967892948285379640
+      agregar_inmueble_2: -4184623072611805643
+      agregar_inmueble_3: 1402241763165868443
+      agregar_inmueble_4: -9049231907471741814
+      agregar_inmueble_5: -6967952607321639180
+      agregar_inmueble_6: 2069662855301254692
+      agregar_inmueble_7: 8945607604955154380
+      agregar_inmueble_8: 2166549154574462716
+      agregar_inmueble_9: -4448117942504972780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

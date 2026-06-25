@@ -1,0 +1,60 @@
+═══════════════════════════════════════════════════════════════════════════════
+ ESTRUCTURA DEL PREFAB: ItemHistorialLiquidacion
+═══════════════════════════════════════════════════════════════════════════════
+
+Este prefab se usará SOLO cuando estés viendo el historial de un contrato.
+Puede ser idéntico al ItemLiquidacion o ligeramente mejorado.
+
+ESTRUCTURA RECOMENDADA:
+───────────────────────────────────────────────────────────────────────────────
+
+ItemHistorialLiquidacion (Panel / Image)
+│
+├── Text_Fecha (TMP_Text)
+│   └── Muestra: "15-05-2026"
+│
+├── Text_Estado (TMP_Text)
+│   └── Muestra: "Pagada" o "Pendiente"
+│
+├── Text_Neto (TMP_Text)
+│   └── Muestra: "$50,000"
+│
+├── Text_Monto (TMP_Text)   [OPCIONAL - Nueva información]
+│   └── Muestra: "$60,000"
+│
+├── Button_Editar (Button)
+│   └── Abre el formulario para editar esta liquidación
+│
+├── Button_Eliminar (Button)
+│   └── Abre popup de confirmación para eliminar
+│
+└── Button_VerDetalles (Button)   [OPCIONAL]
+    └── Muestra descuentos, honorarios, etc.
+
+───────────────────────────────────────────────────────────────────────────────
+
+PASOS PARA CREAR EL PREFAB EN UNITY:
+───────────────────────────────────────────────────────────────────────────────
+
+1. Crear la estructura visual:
+   - Crea un Panel (Image Component)
+   - Colorea el fondo para distinguirlo (ej: gris claro)
+   - Agrega espaciado y layout adecuado
+
+2. Agregar los TMP_Text para cada campo:
+   - Text_Fecha → Muestra la fecha de la liquidación
+   - Text_Estado → Muestra "Pagada" o "Pendiente"
+   - Text_Neto → Muestra el monto neto del propietario
+
+3. Agregar los botones:
+   - Button_Editar (nombre importante para que el código lo detecte)
+   - Button_Eliminar (nombre importante para que el código lo detecte)
+
+4. Guardar como Prefab:
+   - Drag and drop a Assets/Prefabs/ o la carpeta donde guardes prefabs
+   - O crea la carpeta si no existe
+
+5. Agregar la referencia en LiquidacionUI:
+   - En el inspector, arrastrar el prefab al field "Item Historial Liquidacion Prefab"
+
+═══════════════════════════════════════════════════════════════════════════════
