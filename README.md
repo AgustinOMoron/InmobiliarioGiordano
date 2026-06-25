@@ -92,6 +92,3 @@ En la raíz del repo hay un conjunto de scripts en **Python** usados para explor
 
 Proyecto en desarrollo activo, construido de forma incremental como TFG/proyecto aplicado a un caso real (Inmobiliaria Luis Giordano).
 
-## Autoría
-
-Desarrollado por **Agustín O. Morón** y **Jana Viciana**.
